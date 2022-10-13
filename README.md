@@ -1,1 +1,1 @@
-# Software-engenering-Project1
+AS a computer science major, an account on github is now a professional identity, where you can put your resume, your projects, and your ideas. You may use it to showcase your projects, your coursework, and your ideas. You may also integrate work by others also avaliable on github. By doing this, you'll have an advatage over that one page resume, which can not properly demonstrate yourself. On the other hand, employers may ask for your github account and evaluate you from there. 
